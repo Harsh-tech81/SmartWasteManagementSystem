@@ -87,11 +87,11 @@ npm start
   - `Login.jsx`, `Register.jsx`, `Profile.jsx` — Auth and user profile
 ## Frontend Screenshot
 
-- `assets/Screenshot (173).png`
-- `assets/Screenshot (174).png`
-- `assets/Screenshot (175).png`
-- `assets/Screenshot (176).png`
-- `assets/Screenshot (177).png`
+- `https://github.com/Mohnish27-dev/SmartWasteManagementSystem/blob/main/assets/Screenshot%20(173).png`
+- `https://github.com/Mohnish27-dev/SmartWasteManagementSystem/blob/main/assets/Screenshot%20(173).png`
+- `https://github.com/Mohnish27-dev/SmartWasteManagementSystem/blob/main/assets/Screenshot%20(173).png`
+- `https://github.com/Mohnish27-dev/SmartWasteManagementSystem/blob/main/assets/Screenshot%20(173).png`
+- `https://github.com/Mohnish27-dev/SmartWasteManagementSystem/blob/main/assets/Screenshot%20(173).png`
 
 ---
 
